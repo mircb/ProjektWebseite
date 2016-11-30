@@ -25,15 +25,52 @@ li a:hover {
 }
 
 .Titel {
-    margin: -230px 210px;
+    margin: -230px 230px;
+    width: auto;
+    height: auto;
+    padding-bottom: 50px;
+    
+    
+}
+.Titel2 {
+    margin: -230px 230px;
+    width: auto;
+    height: auto;
+    padding-bottom: 50px;
+    
 }
 
+.menu{
+    
+    width: 30%;
+      
+}
 #owl-demo .item {
-    margin: 3px;
+    margin: 2px;
 }
 
 #owl-demo .item img {
+    display:block;
+    width: 100%;
+    height:auto;
+}
+#owl-demo2 .item {
+    margin: 2px;
+}
+
+#owl-demo2 .item img {
     display: block;
     width: 100%;
     height: auto;
+}
+
+.unten{
+    
+    
+    border: 5px solid black;
+    height: 80px;      
+    width: 100%;
+    margin-top: 200px;
+
+    
 }
